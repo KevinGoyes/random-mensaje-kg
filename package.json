@@ -1,0 +1,20 @@
+{
+  "name": "random-mensaje-kg",
+  "version": "1.0.0",
+  "description": "Mensajes random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "kevin goyes <kevinfgoyesa@gmail.com>",
+  "license": "MIT",
+
+  "bin": {
+    "random-mensaje-kg" : "/Users/kevin/Desktop/ProyectosWeb/random-mensaje-kg/bin/global"
+  },
+  "preferGlobal": true
+}
