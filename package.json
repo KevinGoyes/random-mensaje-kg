@@ -12,9 +12,11 @@
   ],
   "author": "kevin goyes <kevinfgoyesa@gmail.com>",
   "license": "MIT",
-
   "bin": {
-    "random-mensaje-kg" : "/Users/kevin/Desktop/ProyectosWeb/random-mensaje-kg/bin/global"
+    "random-mensaje-kg": "/Users/kevin/Desktop/ProyectosWeb/random-mensaje-kg/bin/global"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
